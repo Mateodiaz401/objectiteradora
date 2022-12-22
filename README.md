@@ -62,3 +62,8 @@ console.log('Aqui acaba el yield');
 // }
 
 ```
+
+### Temas incluidos
+
+-   spread
+-   Comparador abstract
