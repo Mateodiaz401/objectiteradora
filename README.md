@@ -55,7 +55,7 @@ for (const prop of personaObj) {
     console.log(prop);
 }
 
-console.log('Aqui acaba el yield');
+console.log('Aquí acaba el yield');
 
 // for (const propiedad of personArr) {
 //     console.log(propiedad);
