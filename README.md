@@ -1,4 +1,4 @@
-## Generar nuestro propio object iteradora
+##  Generar nuestro propio object iteradora
 
 ```sh
 console.clear();
